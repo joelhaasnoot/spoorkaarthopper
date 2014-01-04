@@ -1,13 +1,16 @@
+<<<<<<< HEAD
 # Eclipse
 .project
 .settings
 .classpath
 
-# Maven
-target/
+# Java
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Maven
+target/
